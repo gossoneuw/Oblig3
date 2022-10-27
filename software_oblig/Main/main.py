@@ -11,4 +11,3 @@ if isLeapYear(year) == True:
 
 if isLeapYear(year) == False:
     print(f"{year} is not a leap year")
-
