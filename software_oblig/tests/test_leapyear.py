@@ -1,4 +1,4 @@
-from software_oblig.function import isLeapYear
+from software_oblig.Main.function import isLeapYear
 
 
 def test_if_number_divisible_by_4_but_not_100_is_leapyear():
